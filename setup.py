@@ -19,7 +19,7 @@ except ImportError:
 
 
 install_requires = [
-    "Django>=3.2,<4.2",
+    "Django>=3.2",
     "django-modelcluster>=6.0,<7.0",
     "django-permissionedforms>=0.1,<1.0",
     "django-taggit>=2.0,<4.0",
